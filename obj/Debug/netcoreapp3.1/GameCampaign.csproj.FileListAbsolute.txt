@@ -1,0 +1,14 @@
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\bin\Debug\netcoreapp3.1\GameCampaign.exe
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\bin\Debug\netcoreapp3.1\GameCampaign.deps.json
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\bin\Debug\netcoreapp3.1\GameCampaign.runtimeconfig.json
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\bin\Debug\netcoreapp3.1\GameCampaign.runtimeconfig.dev.json
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\bin\Debug\netcoreapp3.1\GameCampaign.dll
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\bin\Debug\netcoreapp3.1\GameCampaign.pdb
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\obj\Debug\netcoreapp3.1\GameCampaign.csproj.AssemblyReference.cache
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\obj\Debug\netcoreapp3.1\GameCampaign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\obj\Debug\netcoreapp3.1\GameCampaign.AssemblyInfoInputs.cache
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\obj\Debug\netcoreapp3.1\GameCampaign.AssemblyInfo.cs
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\obj\Debug\netcoreapp3.1\GameCampaign.csproj.CoreCompileInputs.cache
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\obj\Debug\netcoreapp3.1\GameCampaign.dll
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\obj\Debug\netcoreapp3.1\GameCampaign.pdb
+C:\Users\yusufadiguzel\source\repos\GameCampaign\GameCampaign\obj\Debug\netcoreapp3.1\GameCampaign.genruntimeconfig.cache
